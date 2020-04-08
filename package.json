@@ -1,6 +1,6 @@
 {
   "name": "french-dev-memes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Output a random developer meme from the website foutucode.fr",
   "main": "index.js",
   "scripts": {
