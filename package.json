@@ -1,0 +1,29 @@
+{
+  "name": "french-dev-memes",
+  "version": "1.0.0",
+  "description": "Output a random developer meme from the website foutucode.fr",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdouardCourty/french-dev-memes.git"
+  },
+  "keywords": [
+    "scrapping",
+    "dev meme",
+    "dev humor",
+    "french memes"
+  ],
+  "author": "Edouard Courty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdouardCourty/french-dev-memes/issues"
+  },
+  "homepage": "https://github.com/EdouardCourty/french-dev-memes#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
