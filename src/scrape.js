@@ -11,7 +11,7 @@ module.exports = () => {
     const elementAttributes = figureElement.find("img")["0"].attribs;
     resolve({
       url: elementAttributes["data-src"],
-      alt_sizes: elementAttributes["data-srcset"].split(", ").map(value => {
+      altSizes: elementAttributes["data-srcset"].split(", ").map(value => {
         let arr = value.split(" ");
         let src = arr.shift(),
             size = arr.shift();
