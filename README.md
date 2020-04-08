@@ -40,6 +40,6 @@ The data output will look like the following:
   ],
   "altText": "Quand le dev backend fait du frontend"
 }
-
-
 ```
+
+© Edouard Courty - 2020
