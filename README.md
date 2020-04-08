@@ -6,8 +6,10 @@ Special thank to the owner [@foutucode](https://www.instagram.com/foutucode) for
 
 ## Installation
 
+[![NPM](https://nodei.co/npm/french-dev-memes.png)](https://nodei.co/npm/french-dev-memes/)  
+
 Install this module by running the following NPM command in your terminal:
-```
+```shell script
 npm install french-dev-memes
 ```
 
